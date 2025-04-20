@@ -1,9 +1,14 @@
 # LibreriaMoodleAnalisis
 
+---
+
+## Metadatos TfxHoF
+
 - Autor: [Brian Sal Sarria](https://www.linkedin.com/in/brian-sal-sarria-3235a71a1/)
 - Título: [MAADLE Y PREZ: Procesado del log de eventos de Moodle para la generación de informes de la actividad de los usuarios](https://repositorio.unican.es/xmlui/handle/10902/20930)
 - Fecha: Junio 2020
 
+---
 
 Este repositorio busca recoger el trabajo desarrollado para la implementación de una herramienta que permita analizar el contenido de los logs de Moodle. Está enlazado con Travis CI para la integración continua y Sonarcloud para el control de calidad, los enlaces a tales herramientas son:
 
